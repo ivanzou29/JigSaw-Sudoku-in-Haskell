@@ -11,6 +11,3 @@
 
 ### Running
 Use command "./JigsawSudoku" to play the game by following the displayed instruction.
-
-Thanks and regards,
-Yunfan
